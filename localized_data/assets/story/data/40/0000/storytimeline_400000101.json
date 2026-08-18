@@ -1,0 +1,25 @@
+{
+    "text_block_list": [
+        {
+            "text": "Ang URA Finale ay isang entablado kung<n>\nsaan maaaring magningning ang lahat ng<n>\nUmamusume."
+        },
+        {
+            "text": "Sa wakas, dumating na ang araw ng<n>\npreliminaries."
+        },
+        {
+            "text": "Trainer, salamat sa pag-alaga kay<n>\n<chrname>."
+        },
+        {
+            "text": "Sa wakas ay nakarating ka na rito. Bilang<n>\nisang tagahanga, tuwang-tuwa ako.",
+            "choice_data_list": [
+                "Gagawin natin itong isa para sa mga aklat ng kasaysayan!"
+            ]
+        },
+        {
+            "text": "Hehehe, wala akong duda. Excited na<n>\nako sa karera!"
+        },
+        {
+            "text": "Bubukas ang mga gate anumang oras...<n>\nURA Finale, narito na tayo!"
+        }
+    ]
+}

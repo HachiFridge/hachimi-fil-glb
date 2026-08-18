@@ -1,0 +1,22 @@
+{
+    "text_block_list": [
+        {
+            "text": "Binabati kita sa pagkakuha ng first place!"
+        },
+        {
+            "text": "Ang galing naman ng karerang 'yan!<n>\nNapapabilis ang adrenaline ko habang<n>\nnanonood pa lang!"
+        },
+        {
+            "text": "At ngayon, ang susunod ay walang iba<n>\nkundi—",
+            "choice_data_list": [
+                "Ang finals."
+            ]
+        },
+        {
+            "text": "Tama! Ang pinakamaringal na entablado,<n>\nkung saan ang mga pag-asa ng mga<n>\ntagahanga ang nagtutulak sa lahat na<n>\nsumulong... hanggang sa pinakatuktok."
+        },
+        {
+            "text": "Gawin mo ang lahat para makamit ang<n>\nkaluwalhatiang iyan!"
+        }
+    ]
+}

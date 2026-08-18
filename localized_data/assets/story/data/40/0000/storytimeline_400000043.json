@@ -1,0 +1,29 @@
+{
+    "text_block_list": [
+        {
+            "text": "Nagtamo sina <chrname> ng kaunting<n>\npinsala!"
+        },
+        {
+            "text": "Pero nandito lang ang summer camp<n>\nisang beses kada taon, at nauubos na ang<n>\noras. Ano ang gagawin ko...",
+            "choice_data_list": [
+                "Hayaan siyang magpahinga.",
+                "Hikayatin siyang magpatuloy."
+            ]
+        },
+        {
+            "text": "Nagpasya akong mag-concentrate sa<n>\npaggamot at paggaling."
+        },
+        {
+            "text": "Mukhang nalungkutan sina <chrname><n>\ndahil hindi siya nakapag-ehersisyo."
+        },
+        {
+            "text": "Nagpasya ako na hikayain sina <chrname><n>\nna magpatuloy pa..."
+        },
+        {
+            "text": "Pero may masamang nangyari! Mukhang<n>\nlumala pa ang kanyang pinsala!"
+        },
+        {
+            "text": "Mahimalang gumaling ang kanyang<n>\npinsala! Perpekto ang naging resulta ng<n>\npagsasanay!"
+        }
+    ]
+}

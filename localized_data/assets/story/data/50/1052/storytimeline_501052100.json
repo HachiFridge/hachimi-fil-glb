@@ -63,10 +63,10 @@
             "text": "Nagpasya ako na pagkatiwalaan siya at<n>\nmaghintay hanggang sa bumalik siya..."
         },
         {
-            "text": "...Pero hindi siya bumalik! Baka may<n>\nnangyari. Kailangan ko siyang hanapin!"
+            "text": "...Pero na hindi siya bumalik! Baka may<n>\nnangyari sa kanya. Kailangan ko siyang<n>\nhanapin!"
         },
         {
-            "text": "(Wala siya rito...)"
+            "text": "(Wala siya dito...)"
         },
         {
             "text": "(O dito...)"
@@ -78,7 +78,7 @@
             "text": "Hinanap ko siya halos kahit saan,<n>\nhanggang sa..."
         },
         {
-            "text": "<i>Phew...</i> Pagod na ako! Oras na para<n>\nmagpahinga!"
+            "text": "<i>Hay...</i> Pagod na ako! Oras na para<n>\nmagpahinga!"
         },
         {
             "text": "Nahanap ko na si Haru Urara! Pero<n>\nnarumihan na siya tuluyan...\nAnong nangyari dito?!",
@@ -104,7 +104,7 @@
             "text": "Sa totoo lang, sa tingin ko natagpuan ko na<n>\nang hari ng ilog! At malapit ko na siyang<n>\nmakuha!"
         },
         {
-            "text": "...Huwag na nga. Nagtatanga lang siya.",
+            "text": "...Huwag na nga. Baka nagtatanga<n>\nlang siya.",
             "choice_data_list": [
                 "<size=30>Kaya, ano kaya kung bumalik na tayo sa pagsasanay?</size>"
             ]
@@ -118,8 +118,8 @@
         {
             "text": "AH! Nakakita ako ng malaking isda! Baka<n>\nito ang <i>hari</i> ng ilog! Hanapin natin!",
             "choice_data_list": [
-                "Di mo ba gusto ang first place?",
-                "Di mo ba gusto ang first place?"
+                "Di ba gusto ang first place?",
+                "Di ba gusto ang first place?"
             ]
         },
         {

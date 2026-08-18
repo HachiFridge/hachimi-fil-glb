@@ -2,7 +2,7 @@
     "title": "Pagkatapos ng Arima Kinen: Balang araw. Lagpas sa lungkot",
     "text_block_list": [
         {
-            "text": "Phew, Nandito na ako, Trainer!",
+            "text": "Hay, Nandito na ako, Trainer!",
             "choice_data_list": [
                 "Maligayang pagbalik, Urara!"
             ]
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "text": "At sinusubukan ko talagang lagpasan ang<n>\ntao sa harap ko."
+            "text": "At sinusubukan ko talagang lagpasan ang<n>\nnasa harap ko."
         },
         {
             "text": "Tumatakbo ako nang mabilis! Pero di<n>\nko siya maabutan..."
@@ -28,7 +28,9 @@
         {
             "text": "At, at..."
         },
-        {},
+        {
+            "text": "<i>Uuuu...</i>"
+        },
         {
             "text": "Hala? Kakaiba naman yan."
         },
@@ -36,21 +38,23 @@
             "text": "Ba-bakit ako umiiyak? Nagsaya naman<n>\nako..."
         },
         {
-            "text": "Kahit na ito ay napakasaya, at gusto kong<n>\ngawain ito muli, ako... <i>Hic...</i>",
+            "text": "Kahit na ito ay napakasaya, at gusto kong<n>\ngawain ito muli, ako... <i>Uuu...</i>",
             "choice_data_list": [
-                "Ang galing mo, Urara!",
-                "Ang galing mo, Urara!"
+                "Napakahusay ka, Urara!",
+                "Napakahusay ka, Urara!"
             ]
         },
-        {},
         {
-            "text": "Napakasaya nito! Napakasaya!"
+            "text": "Uwahhhhhhhhhhhhh!!!"
+        },
+        {
+            "text": "Napakasaya talaga nito! Napakasaya!"
         },
         {
             "text": "Sineryoso na talaga ni Haru Urara ang<n>\nisang karera, at dahil diyan, nalungkutan<n>\nsiya dahil sa kanyang pagkatalo. Ito<n>\ntalaga ay isang patunay ng kanyang<n>\npaglago."
         },
         {
-            "text": "At dahil siya, inaliw ko siya hangga't sa<n>\ntumigil siya sa pagiyak."
+            "text": "Pagkatapos niyan, inaliw ko siya hangga't<n>\nsa tumigil na siya sa pagiyak."
         },
         {
             "text": "Bagama't hindi ito natapos sa panalo,<n>\nnagawa pa rin ni Haru Urara na<n>\nmakapag-qualify at tumakbo sa kanyang<n>\npangarap na karera, at dahil doon pa<n>\nlamang ay dapat na siyang maging<n>\nlubos na ipagmalaki."

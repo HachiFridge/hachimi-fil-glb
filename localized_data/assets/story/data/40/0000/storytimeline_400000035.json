@@ -1,0 +1,19 @@
+{
+    "text_block_list": [
+        {
+            "text": "Binabati kita! Kaygandang tagumpay.",
+            "choice_data_list": [
+                "Lahat ng ito ay dahil sa kanyang pagsusumikap."
+            ]
+        },
+        {
+            "text": "Ngayon sigurado na ako. Ang susunod na<n>\nnapakalaking, punong-kulay na espesyal<n>\nna tampok <i>ay dapat</i> tungkol sa<n>\ninyong dalawa!"
+        },
+        {
+            "text": "Mukhang maaasahan natin ang magandang<n>\ntugon mula sa susunod na Twinkle Monthly!"
+        },
+        {
+            "text": "Pupunta ako upang purihin si <chrname><n>\npara sa kanyang tagumpay."
+        }
+    ]
+}

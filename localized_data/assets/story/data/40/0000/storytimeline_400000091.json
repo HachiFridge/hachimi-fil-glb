@@ -1,0 +1,208 @@
+{
+    "text_block_list": [
+        {},
+        {
+            "text": "Excuse me?<n>\n<username>?<n>\nNandito ka ba?",
+            "choice_data_list": [
+                "Nandito ako!"
+            ]
+        },
+        {
+            "text": "Ay, mabuti. Ibibigay ko ito sana sa iyo."
+        },
+        {
+            "text": "Inilabas lang ito."
+        },
+        {
+            "text": "Ang <i>Twinkle Monthly Special Issue</i>",
+            "color_text_info_list": [
+                "Twinkle Monthly Special Issue"
+            ]
+        },
+        {
+            "text": "Kamakailan lamang, maraming mambabasa<n>\nang humihiling ng isang compilation ng<n>\nmga kaganapan sa mundo ng karera sa<n>\nnakalipas na tatlong taon."
+        },
+        {
+            "text": "Kaya tiyak na napagtanto rin nila kung<n>\ngaano kalaki ang naging epekto nitong<n>\nnakaraang tatlong taon."
+        },
+        {
+            "text": "Ang daming bagay na nangyari.",
+            "choice_data_list": [
+                "Tama ka diyan."
+            ]
+        },
+        {
+            "text": "Bilang isang taga-ulat, napakaswerte ko<n>\nna nakapagbalita sa loob ng tatlong taong<n>\nito."
+        },
+        {
+            "text": "At makilala kita."
+        },
+        {
+            "text": "Ay, isa pang bagay..."
+        },
+        {
+            "text": "Nakita mo na ang cover?",
+            "choice_data_list": [
+                "Ung cover?"
+            ]
+        },
+        {
+            "text": "Oo, tignan mo."
+        },
+        {
+            "text": "Sa pagpupumilit ni Otonashi, tiningnan ko<n>\nang cover at nakita ko ang..."
+        },
+        {
+            "text": "Isang malaking larawan ni <chrname> na<n>\nnakapalamuti sa unang pahina."
+        },
+        {
+            "text": "Noong iniisip ko kung sino ang magiging<n>\ntampok para sa special edition na ito..."
+        },
+        {
+            "text": "Isang candidate lang ang lumabas sa aking<n>\nisipan."
+        },
+        {
+            "text": "At iyan din ang opinyon ng departamento<n>\nng editoryal.",
+            "choice_data_list": [
+                "Di ko alam ang sasabihin ko."
+            ]
+        },
+        {
+            "text": "Patuloy naming babalitaan sa Twinkle<n>\nMonthly ang mga gawain ni <chrname>.<n>\nAt siyempre..."
+        },
+        {
+            "text": "Susubaybayan ka rin namin nang may<n>\nmalaking interes."
+        },
+        {
+            "text": "Matapos ang lahat ng mga panayam na<n>\nnagawa ko hanggang sa kasalukuyan,<n>\nkumbinsido akong kayong dalawa ang<n>\nliwanag na gagabay sa mundo ng karera.",
+            "choice_data_list": [
+                "Kung gayon, sisiguraduhin kong mas magniningning pa siya!",
+                "Kung gayon, sisiguraduhin kong mas magniningning pa siya!"
+            ]
+        },
+        {},
+        {
+            "text": "Ito... Ito'y.........",
+            "choice_data_list": [
+                "Okay ka lang ba?"
+            ]
+        },
+        {
+            "text": "Kamangha-mangha!"
+        },
+        {
+            "text": "Gusto mong mas lalong magningning ang<n>\niyong trainee! Kahit na ang ibig sabihin<n>\nnito ay anino ka lang sa likod niya!"
+        },
+        {
+            "text": "Inilalaan mo ang lahat ng oras mo sa kanya,<n>\npati na ang lahat ng pera mo, at dinadala<n>\nmo siya sa mga karera sa lahat ng dako<n>\npara maabot ang kanyang mga pangarap!"
+        },
+        {
+            "text": "Aah... Ang galing mo talaga gaya ng<n>\ninaakala ko!"
+        },
+        {
+            "text": "Sa anumang kadahilanan, nawalan ng kontrol<n>\nsina Otonashi sa kanyang pananabik,<n>\ngaya ng dati."
+        },
+        {
+            "text": "Pero ipinapahayag ng magasin na ito ang<n>\nkanyang tunay na nararamdaman. Ipapakita<n>\nko ito kay <chrname> mamaya!"
+        },
+        {
+            "text": "Para sa espesyal na edisyong ito,<n>\nsinubukan namin ang isang bagay na<n>\nmedyo kakaiba.",
+            "choice_data_list": [
+                "Ano naman 'yan?"
+            ]
+        },
+        {
+            "text": "Hehe, tignan mo ang likuran."
+        },
+        {
+            "text": "Sa pagpupumilit ni Otonashi, binuklat ko<n>\nang likod na bahagi ng magasin."
+        },
+        {
+            "text": "At dito ay nakita ko..."
+        },
+        {
+            "text": "\"<chrname> at\nTrainer <username>,...\""
+        },
+        {
+            "text": "Alam mo, ang departamento ng editoryal<n>\nay nakatanggap ng napakaraming liham ng<n>\ntagahanga mula sa mga mambabasa na<n>\npara sa inyong dalawa."
+        },
+        {
+            "text": "Dahil sa sigasig na iyon, nagpasya kaming<n>\nlumikha ng isang espesyal na seksyon<n>\nna nagpapakita ng lahat ng mga salitang<n>\niyon ng suporta."
+        },
+        {
+            "text": "Ito ang halos unang pagkakataon na<n>\nnaglaan kami ng maraming pahina para<n>\nlamang sa mga liham mula sa aming mga<n>\nmambabasa.",
+            "choice_data_list": [
+                "Wow, salamat!"
+            ]
+        },
+        {
+            "text": "Hehe! Pakisabi na lang po ang pasasalamat<n>\nninyo sa lahat ng mga tagahangang<n>\nnakikita ninyo sa mga karera at<n>\nkonsiyerto."
+        },
+        {
+            "text": "Kung natutulungan ko kayong maiugnay sa<n>\ninyong mga tagahanga, ibig sabihin ay<n>\nginagawa ko ang aking trabaho bilang<n>\nisang taga-ulat."
+        },
+        {
+            "text": "Ipinapahayag ng artikulong ito ang tunay\nna nararamdaman ni Otonashi.<n>\nIpapakita ko ito kay <chrname> mamaya!"
+        },
+        {
+            "text": "Maaari mo bang laktawan ang ilang pahina<n>\npasulong?",
+            "choice_data_list": [
+                "Ilang pahina?"
+            ]
+        },
+        {
+            "text": "Oo, tignan mo."
+        },
+        {
+            "text": "Sa pagpupumilit ni Otonashi, binuklat ko<n>\nang ilang pahina nakita ko..."
+        },
+        {
+            "text": "Isang espesyal na tampok na pinamagatang<n>\n\"Paghahangad ng Kaluwalhatian<n>\nkasama si <chrname> at ng Kanyang<n>\nTrainer.\""
+        },
+        {
+            "text": "Imposibleng pag-usapan ang huling<n>\ntatlong taon ng karera ng Umamusume<n>\nnang hindi kayo binabanggit."
+        },
+        {
+            "text": "Ang kwento mo ay nararapat na higit pa sa<n>\nisang maliit na artikulo. Kaya,<n>\nnakipagnegosasyon ako nang kaunti sa<n>\npunong patnugot."
+        },
+        {
+            "text": "Alam kong lahat ng ating mga mambabasa<n>\nay matutuwa na makakita ng isang<n>\nespesyal na tampok sa inyong dalawa.",
+            "choice_data_list": [
+                "Di ko alam ang sasabihin ko."
+            ]
+        },
+        {
+            "text": "Hehe. Siyempre, hindi ako eksepsiyon.<n>\nMas nasasabik akong makita ang iyong<n>\nmga susunod na tagumpay."
+        },
+        {
+            "text": "Ipinapahayag ng artikulong ito ang tunay\nna nararamdaman ni Otonashi.<n>\nIpapakita ko ito kay <chrname> mamaya!"
+        },
+        {
+            "text": "Nakita mo na ba ang kanang bahagi ng<n>\npahina na iyon?",
+            "choice_data_list": [
+                "Kanang bahagi?"
+            ]
+        },
+        {
+            "text": "Oo, tignan mo."
+        },
+        {
+            "text": "Mayroong isang maliit na espesyal na<n>\ntampok na pinamagatang<n>\n\"Isang Maaasahang Trainer at Trainee.\""
+        },
+        {
+            "text": "Kasama rito ang mga eksena ng aking<n>\nmga sesyon ng pagsasanay kasama si<n>\n<chrname> kasama ang masiglang mga<n>\nkomento ni Otonashi."
+        },
+        {
+            "text": "\"Hindi na ako makapaghintay na makita<n>\nkung hanggang saan ang kaya ng dalawang<n>\nito!\" ...At seryoso ako sa bawat sinabi ko.",
+            "choice_data_list": [
+                "Di ko alam ang sasabihin ko."
+            ]
+        },
+        {
+            "text": "Hehe, balak kong ipagpatuloy ang landas<n>\nna tatahakin ninyong dalawa mula ngayon."
+        },
+        {
+            "text": "Ipinapahayag ng artikulong ito ang tunay\nna nararamdaman ni Otonashi.<n>\nIpapakita ko ito kay <chrname> mamaya!"
+        }
+    ]
+}

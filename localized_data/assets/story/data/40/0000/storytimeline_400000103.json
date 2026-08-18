@@ -1,0 +1,22 @@
+{
+    "text_block_list": [
+        {
+            "text": "Hahaha! Hinihintay kita, <username>!"
+        },
+        {
+            "text": "Ang mukha mo ay nagsasabi sa akin na<n>\nhanda ka na sa isang hamon... Magaling!<n>\nIyan mismo<n>ang gusto kong makita."
+        },
+        {
+            "text": "Mag-ingat ka! Isa lang ang payo ko sa iyo."
+        },
+        {
+            "text": "Maniwala sa lakas ng iyong sinasanay at<n>\nsambahin ang tagumpay nang sama-sama!",
+            "choice_data_list": [
+                "Gagawin ko!"
+            ]
+        },
+        {
+            "text": "Ang URA Finale... Sa wakas, magbubukas<n>\nna ang gate patungo sa finals!"
+        }
+    ]
+}

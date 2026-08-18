@@ -1,0 +1,63 @@
+{
+    "text_block_list": [
+        {
+            "text": "Noong dumating na ako sa trabaho ko sa<n>\numaga, handang simulan ang araw, Lumapit<n>\n sa akin sina Tazuna Hayakawa, ang<n>\nsecretary ng direktor.",
+            "color_text_info_list": [
+                "Tazuna Hayakawa"
+            ]
+        },
+        {
+            "text": "Magandang umaga, Trainer. Oras na para<n>\nmagtrabaho kasama ang iyong trainee,<n>\n'di ba!"
+        },
+        {
+            "text": "Magkasama ninyong papalakasin ang inyong<n>\nkatawan at kaalaman habang bumubuo<n>\nkayo ng isang bond na hindi ninyo<n>\nmalilimutan. Sigurado ako na makakapag-enjoy<n>\nkayo!"
+        },
+        {
+            "text": "Kapag makakamit ka ng pare-parehong<n>\nresulta, baka makakakuha ka ng isang<n>\ntitle sa G1, ang pinakamarangal sa<n>\npagkarera!",
+            "choice_data_list": [
+                "Gagawin ko ang makakaya ko!"
+            ],
+            "color_text_info_list": [
+                "title sa G1"
+            ]
+        },
+        {
+            "text": "Sigurado ako na magagawa mo! ♪"
+        },
+        {
+            "text": "Pakitandaan na ang unang tatlong taon<n>\nsa Twinkle Series ang pinakamahalaga<n>\npara sa iyong mananakbo.",
+            "color_text_info_list": [
+                "unang tatlong taon"
+            ]
+        },
+        {
+            "text": "Kapag hindi nakakamit ng isang<n>\nkasiya-siyang record<n> tatlong taon<n>\npagkatapos ng kanyang debut...",
+            "color_text_info_list": [
+                "hindi nakakamit ng isang kasiya-siyang record",
+                "tatlong taon pagkatapos ng kanyang debut"
+            ]
+        },
+        {
+            "text": "Natatakot ako na maaring kanselahin ang<n>\nkanyang kontrata kasama ka.",
+            "color_text_info_list": [
+                "kanyang kontrata kasama ka",
+                "kanselahin"
+            ]
+        },
+        {
+            "text": "Ginagawang kritikal ang mga tatlong taon<n>\nna iyon para sa kanya! Magtulungan kayo<n>\nat gumawa kayo ng paraan<n>\npara mapagdaanan ninyo ito.",
+            "choice_data_list": [
+                "Oo, ma'am!"
+            ]
+        },
+        {
+            "text": "Una sa lahat, baka gusto mong<n>\nmagsanay para sa paparating na<n>\nMake Debut.",
+            "color_text_info_list": [
+                "Make Debut"
+            ]
+        },
+        {
+            "text": "Sige na!"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "text_block_list": [
+        {
+            "text": "Oh, Trainer! Nauubusan na tayo ng oras!",
+            "choice_data_list": [
+                "Ano sinasabi mo?!"
+            ]
+        },
+        {
+            "text": "Ang katotohanan na ang Umamusume<n>\nna iyong kinupkop ay hindi pa nananalo<n>\nkahit isang karera ay nagiging isyu..."
+        },
+        {
+            "text": "Kung hindi niya makukuha ang kanyang\nunang panalo pagsapit ng Setyembre,<n>\nmaaaring kanselahin ang kanyang<n>\nkontrata!",
+            "color_text_info_list": [
+                "Setyembre",
+                "unang panalo",
+                "kanselahin"
+            ]
+        },
+        {
+            "text": "At hindi malayo ang Setyembre! Sige na,<n>\nkailangan mong gumawa ng paraan para<n>\ndalhin siya sa tagumpay!",
+            "color_text_info_list": [
+                "Setyembre"
+            ]
+        }
+    ]
+}

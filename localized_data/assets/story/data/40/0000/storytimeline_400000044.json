@@ -1,0 +1,29 @@
+{
+    "text_block_list": [
+        {
+            "text": "Nagtamo sina <chrname> ng malubhang<n>\npinsala!"
+        },
+        {
+            "text": "Dapat ko ba siyang pagtuunan ng pansin<n>\nsa paggaling o ituloy ang sakit...",
+            "choice_data_list": [
+                "Dapat unahin muna ang paggamot.",
+                "Ang sakit ay kahinaan na lumalabas sa katawan!"
+            ]
+        },
+        {
+            "text": "Nagpasya akong mag-focus sa paggamot<n>\nng kanyang pinsala."
+        },
+        {
+            "text": "Mukhang nalulungkutan sina <chrname><n>\ndahil hindi siya makapag-ehersisyo..."
+        },
+        {
+            "text": "Walang dapat sayangin na oras! Pinatigas<n>\nko ang puso ko at nagpasyang hayaan<n>\nsina <chrname> na tiisin ang sakit."
+        },
+        {
+            "text": "Pero pinilit niya masyado ang sarili niya at<n>\nlumala pa ang kanyang pinsala..."
+        },
+        {
+            "text": "Mahimalang gumaling ang kanyang<n>\npinsala! Perpekto ang naging resulta ng<n>\npagsasanay!"
+        }
+    ]
+}

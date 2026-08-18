@@ -1,0 +1,73 @@
+{
+    "text_block_list": [
+        {
+            "text": "Isang araw, habang nagsasanay, may<n>\nnakita ako na may tumitingin sa akin.<n>\nLumiko ako para suriin, para lang..."
+        },
+        {
+            "text": "May isang 'di pamilyar na babae na nanonood<n>\nsa aming sesyon. Inisip ko lang na isa<n>\nlamang siyang tagahanga o taganood at<n>\nsinubukan kong kalimutan."
+        },
+        {
+            "text": "Pero... nananatili lang siya nakatanga,<n>\nkahit na natapos na kaming magsanay.<n>\nHinihintay niya ba ako?",
+            "choice_data_list": [
+                "Excuse lang, gusto mo ba ng tulong?"
+            ]
+        },
+        {
+            "text": "Ay, paumanhin. Inabala ba kita sa iyong<n>\nsesyon sa pagsasanay?",
+            "choice_data_list": [
+                "Hindi, matatapos pa lang kami."
+            ]
+        },
+        {
+            "text": "Mabuti naman! Umaasa akong manghiram<n>\nng ilang tanong, kung may oras ka."
+        },
+        {
+            "text": "Ako sina Etsuko Otonashi. Isa akong<n>\ntaga-ulat para sa <i>Twinkle Monthly</i>."
+        },
+        {
+            "text": "Pinapanood kita at ang iyong trainee<n>\nna magpraktis. Gusto kong magsulat ng<n>\nisang kwento tungkol sa iyong dalawa<n>\nat iyong mga aktibidad para ipakita ang<n>\naking suporta. Kung okay lang sa iyo."
+        },
+        {
+            "text": "Mukang isa siyang mabait na tao.<n>\nDi pa kasama rito, magdadala pa ng<n>\nhigit pang tagahanga para kay <chrname><n>\nang isang mahusay na isinulat na artikulo.",
+            "choice_data_list": [
+                "Gusto naman namin iyan."
+            ]
+        },
+        {
+            "text": "Maraming salamat! Simulan na natin.\nAnong pamantayan ang\nisinasaalang-alang mo kapag binubuo mo<n>\nang iyong plano sa pagsasanay?",
+            "choice_data_list": [
+                "Iniisip ko kung ano ang mga hamon ng trainee ko at kung paano ko siyang tutulungan sa pagtuturo nito."
+            ]
+        },
+        {
+            "text": "Ah. Kaya sa madaling salita, ang iyong<n>\npapel bilang trainer ay...",
+            "choice_data_list": [
+                "Tulungan ang aking trainee na makamit ang kanyang pangarap!"
+            ]
+        },
+        {
+            "text": "Ito... Ito ay...",
+            "choice_data_list": [
+                "Ano..."
+            ]
+        },
+        {
+            "text": "KAMANGHA-MANGHA ITO!"
+        },
+        {
+            "text": "Mukhang handa ka na para tulungan<n>\nang iyong trainee na makamit ang<n>\nkanyang pangarap!"
+        },
+        {
+            "text": "Ang pagsasanay kung saan at kung<n>\nsinasabi niya! Ang pagdala sa kanya sa<n>\nhot springs para mag-recover mula sa mga<n>\nkarera! Ang pagpunta sa bunduk para<n>\nkumuha lang ng tubig para sa kanya!",
+            "choice_data_list": [
+                "(Hindi ko sinabi 'yan!)"
+            ]
+        },
+        {
+            "text": "Ay... Anong devotion... Napaka-hype<n>\nna ako! Promise ko na magiging maganda<n>\nang artikulo para sa lahat ng magbabasa<n>\nnito!"
+        },
+        {
+            "text": "At ganoon lang, mukhang nakapunta ako<n>\nsa magandang aklat ng isang\n<i>pinaka</i> inspiradong ally."
+        }
+    ]
+}

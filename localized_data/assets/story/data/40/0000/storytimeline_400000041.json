@@ -1,0 +1,85 @@
+{
+    "text_block_list": [
+        {
+            "text": "Salamat sa iyong pagsusumikap, Trainer!<n>\nTalagang ibinibigay mo ang lahat, 'di ba!"
+        },
+        {
+            "text": "At alam mo, muli nang dumating ang<n>\npanahon sa taong ito!"
+        },
+        {
+            "text": "Malapit nang magsimula ang taun-taong<n>\nsummer camp ng Akademya Tracen!",
+            "choice_data_list": [
+                "Summer camp!"
+            ],
+            "color_text_info_list": [
+                "summer camp"
+            ]
+        },
+        {
+            "text": "Tama! ♪ Mananatili ka sa tabi ng beach,<n>\ngagamitin ang lugar para sa pagbabago<n>\nsa programa ng pagsasanay.",
+            "color_text_info_list": [
+                "programa ng pagsasanay"
+            ]
+        },
+        {
+            "text": "Alam ko na makakatulong sa iyong trainee<n>\nang bagong kapaligiran sa kanyang<n>\npagpapabuti.",
+            "color_text_info_list": [
+                "pagpapabuti"
+            ]
+        },
+        {
+            "text": "Magsisimula ang camp sa Hulyo, kaya<n>\nsiguraduhin na maayos ang kanyang<n>\nkundisyon para magamit mo ito nang buo.",
+            "color_text_info_list": [
+                "Hulyo",
+                "siguraduhin na maayos"
+            ]
+        },
+        {
+            "text": "Pero baka tapos na ito bago mo pa<n>\nmalaman! Wala kang sapat na oras<n>\npara makapagpahinga.",
+            "choice_data_list": [
+                "Sige!"
+            ]
+        },
+        {
+            "text": "Hehe, ito ang gusto kong marinig!<n>\nMagiging masaya talaga ang Summer<n>\nCamp! ♪"
+        },
+        {
+            "text": "Siyempre, ang pagsasanay ang dapat<n>\nnating pangunahing pagtuunan ng pansin,<n>\npero..."
+        },
+        {
+            "text": "Paminsan-minsan, dapat kang pumunta sa<n>\nbeach para maglibang! Baka makabubuti<n>\nito para sa iyo! ♪"
+        },
+        {
+            "text": "Sa tingin ko, ang iyong trainee ay<n>\nmakakaramdam ng presko at masiglang<n>\npakiramdam!",
+            "choice_data_list": [
+                "May katuturan iyan."
+            ]
+        },
+        {
+            "text": "Pero isa lamang itong maikling panahon<n>\nng dalawang buwan mula Hulyo hanggang<n>\nAgosto...",
+            "color_text_info_list": [
+                "dalawang buwan"
+            ]
+        },
+        {
+            "text": "Sana ay maging mabunga ang tag-init mo<n>\nkasama ang iyong trainee! ♪"
+        },
+        {
+            "text": "Sinasabi sakin ni Tazuna tungkol sa<n>\nsummer camp!"
+        },
+        {
+            "text": "Dapat kong bigyan-pansin ang kundisyon<n>\nat enerhiya ni <chrname>.",
+            "color_text_info_list": [
+                "kundisyon",
+                "enerhiya"
+            ]
+        },
+        {
+            "text": "Magsisimula ito sa dalawang turno sa<n>\nunang bahagi ng Hulyo, kaya<n>\ndapat makapagsimula na ako sa paghanda.",
+            "color_text_info_list": [
+                "dalawang turno",
+                "makapagsimula na ako sa paghanda"
+            ]
+        }
+    ]
+}

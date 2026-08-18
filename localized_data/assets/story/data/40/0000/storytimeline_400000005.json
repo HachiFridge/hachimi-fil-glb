@@ -1,0 +1,15 @@
+{
+    "text_block_list": [
+        {
+            "name": "Direktor Akikawa",
+            "text": "Mahusay! Pinakita mo talaga ang iyong<n>\nmadamdaming sigasig para sa pagsasanay<n>\nng Umamusume!"
+        },
+        {
+            "name": "Direktor Akikawa",
+            "text": "Samakatuwid ay papahusayin namin ang mga<n>\npasilidad sa pagsasanay! Inaabangan ko<n>\nang mga hinaharap mong tagumpay!",
+            "color_text_info_list": [
+                "papahusayin namin"
+            ]
+        }
+    ]
+}
