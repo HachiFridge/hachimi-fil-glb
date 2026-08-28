@@ -1107,7 +1107,7 @@
     "TOPGacha0012": "Kapag nakakuha ka ng Trainee Umamusume na na-scout mo na, makakakuha ka ng mga Pirasong Bituin sa halip.",
     "TOPGacha0013": "Hanggang {4:D2}/{5:D2} {6:D2}:{7:D2}",
     "TOPGacha0014": "Isa kada araw",
-    "TOPHome0001": "$(nb)Mabubura ang data mula sa kasalukuyang playthrough ng Career.",
+    "TOPHome0001": "$(nb)$(scale 80)Mabubura ang data mula sa kasalukuyang playthrough ng Career.",
     "TOPHome0002": "Kasalukuyang Trainee",
     "TOPHome003": "History ng Kabayos!",
     "TOPHome004": "Beses",
