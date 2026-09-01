@@ -1,3 +1,7 @@
+(rewrite in progress)
+
+<!--
+
 # Guidelines for Contribution
 Kamusta! Thanks for taking the time for contributing to this project!
 This project aims to translate the honse game to the Filipino language
@@ -84,3 +88,5 @@ Localize Dict Dump: /home/your_username/.local/share/Steam/steamapps/common/UMPD
 [2]: https://hachimi.noccu.art/docs/hachimi/installing-windows
 [3]: https://code.visualstudio.com
 [4]: https://vscodium.com
+
+-->
