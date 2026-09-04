@@ -54,7 +54,7 @@ def main():
         )
 
     with open("index.json", "w", encoding="utf-8", newline="\n") as f:
-        json.dump(index, f, ensure_ascii=False)
+        json.dump(index, f, ensure_ascii=False, separators=(",", ":"))
 
 
 if __name__ == "__main__":

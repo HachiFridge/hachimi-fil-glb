@@ -5,6 +5,7 @@ on:
     paths:
       - "localized_data/**"
       - "index_base.json"
+      - "gen_index.py"
 
 jobs:
   update_index:
