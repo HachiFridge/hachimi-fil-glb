@@ -1,6 +1,8 @@
 
 <div align="center">
 
+# STOP THE PRODUCTION OF ILLEGAL UMAMUSUME MODS! RESPECT THE RACEHORSES AND THE FRANCHISE!
+
 ![Banner](./meta/banner.png)
 <br>
 
